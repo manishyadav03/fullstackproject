@@ -1,2 +1,2 @@
 # fullstackproject
-using micro-front-end , micro-services+graphql
+using micro-front-end (next js +remix) , micro-services(nest js)+graphql
